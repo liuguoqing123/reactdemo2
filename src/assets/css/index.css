@@ -1,0 +1,20 @@
+.list{
+  padding: 40px;
+}
+
+.list li{
+  line-height: 30px;
+}
+
+.todolistTitle{
+  height: 44px;
+  line-height: 44px;
+  text-align: center; 
+  background:  #000;
+  color: #fff;
+}
+
+.todolistTitle input{
+  height: 30px;
+}
+
